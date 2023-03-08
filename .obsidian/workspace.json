@@ -1,0 +1,191 @@
+{
+  "main": {
+    "id": "700a3627cb04d52a",
+    "type": "split",
+    "children": [
+      {
+        "id": "cb855a3479357561",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e817232558539602",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "de78380d0dbf4b48",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02. Complexity.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ded318755e2fb3a0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "03. Swift Standard Library.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2c3d0bf57c8e19bf",
+    "type": "split",
+    "children": [
+      {
+        "id": "f6e082bb80280d01",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c2f606c435b0342f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ba411b283189efcf",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "eff7cb0c0779a51a",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "28198e13ff88e0b1",
+    "type": "split",
+    "children": [
+      {
+        "id": "3dc4e3da25b33f73",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8826e6d4379c7e1e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "03. Swift Standard Library.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "77615714514ca526",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "03. Swift Standard Library.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4eb997f04183f9a7",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "9583c44a17862496",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "03. Swift Standard Library.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:퀵 스위처 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 데일리 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false
+    }
+  },
+  "active": "ded318755e2fb3a0",
+  "lastOpenFiles": [
+    "02. Complexity.md",
+    "03. Swift Standard Library.md",
+    "MyPlayground~.playground/xcuserdata/stansign.xcuserdatad/xcschemes/xcschememanagement.plist",
+    "MyPlayground~.playground/playground.xcworkspace/xcuserdata/stansign.xcuserdatad/UserInterfaceState.xcuserstate",
+    "MyPlayground~.playground/xcuserdata/stansign.xcuserdatad/xcschemes",
+    "MyPlayground~.playground/playground.xcworkspace/xcuserdata/stansign.xcuserdatad",
+    "MyPlayground~.playground/xcuserdata/stansign.xcuserdatad",
+    "MyPlayground~.playground/playground.xcworkspace/xcuserdata",
+    "MyPlayground~.playground/playground.xcworkspace/contents.xcworkspacedata",
+    "MyPlayground~.playground/timeline.xctimeline",
+    "MyPlayground~.playground/xcuserdata",
+    "MyPlayground~.playground/playground.xcworkspace",
+    "스크린샷 2023-03-08 22.06.32.png",
+    "README.md"
+  ]
+}
