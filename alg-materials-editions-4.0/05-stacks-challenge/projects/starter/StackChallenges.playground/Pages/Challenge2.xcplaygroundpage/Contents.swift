@@ -17,4 +17,39 @@ var testString1 = "h((e))llo(world)()"
 
 // your code here
 
-// checkParentheses(testString1) // should be true
+struct Stack<Element> {
+
+  var storage: [Element] = []
+
+  public init() { }
+
+  public init(_ array: [Element]) {
+    self.storage = array
+  }
+
+  mutating func push(_ element: Element) {
+    self.storage.append(element)
+  }
+
+  @discardableResult
+  mutating func pop() -> Element? {
+    self.storage.popLast()
+  }
+}
+
+func checkParentheses(_ string: String) -> Bool {
+  var stack = Stack<Character>()
+
+  for char in string {
+    if char == "(" {
+      stack.push(char)
+    } else if char == ")" {
+      if stack.pop() == nil {
+        return false
+      }
+    }
+  }
+  return true
+}
+
+checkParentheses(testString1) // should be true
