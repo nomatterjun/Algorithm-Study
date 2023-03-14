@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "442bc9f8b5a8e68b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "06. Linked Lists.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "04. Stacks.md",
+                "file": "06. Linked Lists.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "04. Stacks.md",
+                "file": "06. Linked Lists.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "04. Stacks.md"
+                "file": "06. Linked Lists.md"
               }
             }
           }
@@ -146,19 +159,23 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "24f073e6f85aa051",
+  "active": "442bc9f8b5a8e68b",
   "lastOpenFiles": [
-    "alg-materials-editions-4.0/05-stacks-challenge/projects/starter/StackChallenges.playground/playground.xcworkspace/xcuserdata/stansign.xcuserdatad/UserInterfaceState.xcuserstate",
-    "alg-materials-editions-4.0/05-stacks-challenge/projects/starter/StackChallenges.playground/playground.xcworkspace/xcuserdata/stansign.xcuserdatad",
-    "alg-materials-editions-4.0/05-stacks-challenge/projects/starter/StackChallenges.playground/playground.xcworkspace/xcuserdata",
-    "alg-materials-editions-4.0/05-stacks-challenge/projects/starter/StackChallenges.playground/xcuserdata/stansign.xcuserdatad/xcschemes/xcschememanagement.plist",
-    "alg-materials-editions-4.0/05-stacks-challenge/projects/starter/StackChallenges.playground/xcuserdata/stansign.xcuserdatad/xcschemes",
-    "alg-materials-editions-4.0/05-stacks-challenge/projects/starter/StackChallenges.playground/xcuserdata/stansign.xcuserdatad",
-    "alg-materials-editions-4.0/05-stacks-challenge/projects/starter/StackChallenges.playground/xcuserdata",
-    "alg-materials-editions-4.0/04-stacks/projects/starter/Stacks.playground/xcuserdata/stansign.xcuserdatad/xcschemes/xcschememanagement.plist",
-    "alg-materials-editions-4.0/04-stacks/projects/starter/Stacks.playground/xcuserdata/stansign.xcuserdatad/xcschemes",
-    "alg-materials-editions-4.0/04-stacks/projects/starter/Stacks.playground/xcuserdata/stansign.xcuserdatad",
-    "alg-materials-editions-4.0/04-stacks/projects/starter/Stacks.playground/xcuserdata",
+    "alg-materials-editions-4.0/06-linked-list/projects/finished/LinkedList.playground/playground.xcworkspace/xcuserdata/stansign.xcuserdatad/UserInterfaceState.xcuserstate",
+    "alg-materials-editions-4.0/06-linked-list/projects/finished/LinkedList.playground/playground.xcworkspace/xcuserdata/stansign.xcuserdatad",
+    "alg-materials-editions-4.0/06-linked-list/projects/finished/LinkedList.playground/playground.xcworkspace/xcuserdata",
+    "alg-materials-editions-4.0/06-linked-list/projects/finished/LinkedList.playground/xcuserdata/stansign.xcuserdatad/xcschemes/xcschememanagement.plist",
+    "alg-materials-editions-4.0/06-linked-list/projects/finished/LinkedList.playground/xcuserdata/stansign.xcuserdatad/xcschemes",
+    "alg-materials-editions-4.0/06-linked-list/projects/finished/LinkedList.playground/xcuserdata/stansign.xcuserdatad",
+    "alg-materials-editions-4.0/06-linked-list/projects/finished/LinkedList.playground/xcuserdata",
+    "03. Swift Standard Library.md",
+    "02. Complexity.md",
+    "04. Stacks.md",
+    "06. Linked Lists.md",
+    "alg-materials-editions-4.0/06-linked-list/projects/starter/LinkedList.playground/Sources/LinkedList.swift",
+    "alg-materials-editions-4.0/06-linked-list/projects/starter/LinkedList.playground/Sources/New File.swift",
+    "alg-materials-editions-4.0/06-linked-list/projects/starter/LinkedList.playground/Sources/Node~.swift",
+    "alg-materials-editions-4.0/06-linked-list/projects/starter/LinkedList.playground/Sources/Node.swift",
     "alg-materials-editions-4.0/README.md",
     "alg-materials-editions-4.0/45-prims-spanning-tree-challenge/projects/starter/prims.playground/Resources/challenge1_final.png",
     "alg-materials-editions-4.0/45-prims-spanning-tree-challenge/projects/starter/prims.playground/Resources/challenge1.png",
@@ -170,9 +187,6 @@
     "alg-materials-editions-4.0/44-prims-spanning-tree/projects/final/prims.playground/Resources/sampleGraph.png",
     "alg-materials-editions-4.0/43-dijkstra-shortest-path-challenge/projects/final/dijkstra.playground/Resources/challenge1Solution.png",
     "alg-materials-editions-4.0/43-dijkstra-shortest-path-challenge/projects/final/dijkstra.playground/Resources/challenge1Question.png",
-    "03. Swift Standard Library.md",
-    "04. Stacks.md",
-    "02. Complexity.md",
     "README.md"
   ]
 }
