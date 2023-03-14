@@ -12,6 +12,7 @@
 ### II. Elementary Data Structures
 
 [Stacks](https://github.com/nomatterjun/Algorithm-Study/blob/main/Data%20Structure/Stacks.swift)
+
 04. [Stacks](https://github.com/nomatterjun/Algorithm-Study/blob/main/04.%20Stacks.md)
 05. [Stack Challenges](https://github.com/nomatterjun/Algorithm-Study/tree/main/alg-materials-editions-4.0/05-stacks-challenge/projects)
 06. [Linked Lists](https://github.com/nomatterjun/Algorithm-Study/blob/main/06.%20Linked%20Lists.md)
