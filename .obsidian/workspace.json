@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "06. Linked Lists.md",
+                "file": "04. Stacks.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "06. Linked Lists.md",
+                "file": "04. Stacks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "06. Linked Lists.md",
+                "file": "04. Stacks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "06. Linked Lists.md"
+                "file": "04. Stacks.md"
               }
             }
           }
@@ -161,6 +161,11 @@
   },
   "active": "442bc9f8b5a8e68b",
   "lastOpenFiles": [
+    "Data Structure/Stacks.swift",
+    "Data Structure/Stacks.playground/playground.xcworkspace/contents.xcworkspacedata",
+    "Data Structure/Stacks.playground/playground.xcworkspace",
+    "Data Structure/Stacks.playground",
+    "06. Linked Lists.md",
     "Data Structure/Stacks.playground/xcuserdata/stansign.xcuserdatad/xcschemes/xcschememanagement.plist",
     "Data Structure/Stacks.playground/xcuserdata/stansign.xcuserdatad/xcschemes",
     "Data Structure/Stacks.playground/xcuserdata/stansign.xcuserdatad",
@@ -168,14 +173,9 @@
     "Data Structure/Stacks.playground/playground.xcworkspace/xcuserdata/stansign.xcuserdatad/UserInterfaceState.xcuserstate",
     "Data Structure/Stacks.playground/playground.xcworkspace/xcuserdata/stansign.xcuserdatad",
     "Data Structure/Stacks.playground/playground.xcworkspace/xcuserdata",
-    "Data Structure/Stacks.playground/playground.xcworkspace/contents.xcworkspacedata",
-    "Data Structure/Stacks.playground/playground.xcworkspace",
-    "Data Structure/Stacks.playground/timeline.xctimeline",
-    "Data Structure/Stacks.playground/contents.xcplayground",
     "03. Swift Standard Library.md",
     "02. Complexity.md",
     "04. Stacks.md",
-    "06. Linked Lists.md",
     "alg-materials-editions-4.0/README.md",
     "alg-materials-editions-4.0/45-prims-spanning-tree-challenge/projects/starter/prims.playground/Resources/challenge1_final.png",
     "alg-materials-editions-4.0/45-prims-spanning-tree-challenge/projects/starter/prims.playground/Resources/challenge1.png",
